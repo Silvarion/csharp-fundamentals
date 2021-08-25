@@ -1,0 +1,3 @@
+*.dll
+gradebook/src/Gradebook/obj/*
+gradebook/src/Gradebook/bin/*
